@@ -41,7 +41,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/tonslima/tonslima/output/snake.svg" alt="Snake animation" />
-
-###
