@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Java, Spring Boot and MySQL.<br>🌎 I'm mostly active within the Spring Community.<br>🎲 Fun fact: I'm a terrible cook, but I've never stopped cooking.<br><br>👇🏻 You can reach me at 👇🏻</p>
+<p align="left">✨ Creating bugs since 2022.<br>📚 I'm currently learning Java, Spring Boot and MySQL.<br>🌎 I'm mostly active within the Spring Community.<br>🎲 Fun fact: I'm a terrible cook, but I've never stopped cooking.<br><br>👇🏻 You can reach me at 👇🏻</p>
 
 ###
 
