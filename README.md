@@ -1,54 +1,25 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hey, I'm Wellington Lima 👋
 
-###
+A software developer who enjoys designing APIs, exploring distributed systems, and building scalable solutions using modern technologies.  
+Passionate about backend development, event-driven architectures, and cloud computing.
 
-<p align="left">A Back-End Developer by day☀️ and a Spring Community Contributor by Night🌙<br><br>
-Throughout my journey, I discovered a curiosity for technological solutions, which led me to begin my studies. 
-I developed a strong interest in Software Development, particularly in the Back-end area with Java. 
-Currently, I am focused on expanding my knowledge through technical courses and a future postgraduate degree. 🚀<br><br>
-I am currently working on personal projects using Java and Spring Boot, such as creating REST API's, operating with relational databases, utilizing version control tools like Git, and applying agile methodologies like Scrum. 
-Through these technologies, I actively contribute to communities to provide support and learn from others. 🗣️</p>
+---
 
-###
+### 🧰 My Tech Stack
 
-<h2 align="left">About me</h2>
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-%23231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-###
+---
 
-<p align="left">✨ Fixing bugs since 2022.<br>
-📚 I'm currently learning Java, Spring Boot and PostgreSQL.<br>
-🌎 I'm mostly active within the Spring Community.<br>
-🎲 Fun fact: I'm a terrible cook, but I've never stopped cooking.<br><br>
-👇🏻 You can reach me at 👇🏻</p>
+### 📫 You can reach me at 👇🏻
 
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/wellington-slima/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellington-slima/)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wellington.slima@icloud.com?subject=Hello%20Wellington!&body=Hi%20there,%20I%20found%20your%20GitHub%20profile%20and...)
