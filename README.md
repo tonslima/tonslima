@@ -1,6 +1,6 @@
 # Hey, I'm Wellington Lima 👋
 
-A software developer who enjoys designing APIs, exploring distributed systems, and building scalable solutions using modern technologies.  
+A software developer who enjoys designing APIs, exploring distributed systems, and building scalable solutions using modern technologies. 
 Passionate about backend development, event-driven architectures, and cloud computing.
 
 ---
@@ -9,7 +9,7 @@ Passionate about backend development, event-driven architectures, and cloud comp
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-%23231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
